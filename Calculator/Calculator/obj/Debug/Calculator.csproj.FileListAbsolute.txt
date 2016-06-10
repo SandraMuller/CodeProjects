@@ -1,0 +1,6 @@
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator\obj\Debug\Calculator.pdb
