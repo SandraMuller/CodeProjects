@@ -10,14 +10,18 @@ namespace Calculator.Tests
     [TestFixture]
     public class SimpleCalculatorTests
     {
+        private SimpleCalculator sut = new SimpleCalculator();
+
         [Test]
         public void shouldAddTwoNumbers()
         {
-            var sut = new SimpleCalculator();
+            Assert.That(sut.Add(1,2), Is.EqualTo(3));
+        }
 
-            var result = sut.Add(1, 2);
-
-            Assert.That(result, Is.EqualTo(3));
+        [Test]
+        public void shouldMultiplyTwoNumbers()
+        {
+            Assert.That(sut.Multiply(2, 2), Is.EqualTo(4));
         }
     }
 }
