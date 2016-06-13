@@ -1,0 +1,9 @@
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\bin\Debug\Calculator.exe
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\obj\Debug\TestProject.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\mursa\Documents\GitHub\CodeProjects\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

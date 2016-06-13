@@ -18,4 +18,22 @@ namespace Calculator
             return num1 * num2;
         }
     }
+
+    public class Calculator
+    {
+        public double AddDoubles(double num1, double num2)
+        {
+            return num1 + num2;
+        }
+
+        public int Divide(int value, int by)
+        {
+            if (value > 100)
+            {
+                throw new ArgumentOutOfRangeException("by");
+            }
+
+            return value / by;
+        }
+    }
 }
