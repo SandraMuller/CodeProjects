@@ -1,0 +1,3 @@
+http://www.asp.net/web-api/overview/security/individual-accounts-in-web-api
+
+http://oauthlib.readthedocs.io/en/latest/oauth2/grants/password.html
