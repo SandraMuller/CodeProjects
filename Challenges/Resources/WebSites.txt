@@ -1,3 +1,9 @@
 http://www.asp.net/web-api/overview/security/individual-accounts-in-web-api
 
 http://oauthlib.readthedocs.io/en/latest/oauth2/grants/password.html
+
+http://www.theserverside.com/news/1321158/A-beginners-guide-to-Dependency-Injection
+
+https://lostechies.com/jimmybogard/2013/12/20/proper-sessiondbcontext-lifecycle-management/
+
+http://structuremap.github.io/integrations/
