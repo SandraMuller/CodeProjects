@@ -1,5 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\mursa\documents\github\codeprojects\crossplatformxaml\phoneword\phoneword\phoneword.winphone\obj\debug\intermediatexaml\phoneword.winphone.exe" HashGuid="95b161b8-279f-ca44-33f8-85a8217b51d1" />
+    <ReferenceAssembly PathName="c:\users\mursa\documents\github\codeprojects\crossplatformxaml\phoneword\phoneword\phoneword\bin\debug\phoneword.dll" HashGuid="77f8ed1d-0e8b-3a97-2ecf-c6be42200cdc" />
     <ReferenceAssembly PathName="c:\users\mursa\documents\github\codeprojects\crossplatformxaml\phoneword\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
     <ReferenceAssembly PathName="c:\users\mursa\documents\github\codeprojects\crossplatformxaml\phoneword\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
     <ReferenceAssembly PathName="c:\users\mursa\documents\github\codeprojects\crossplatformxaml\phoneword\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />

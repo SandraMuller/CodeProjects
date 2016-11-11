@@ -1,0 +1,2 @@
+C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\Phoneword.Windows.csproj;x86
+C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-NOK0B5E</Machine>
+    <WindowsUser>mursa</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>f76802c1-04b5-4452-8e94-5789f265d2d4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F348EC7BEA7EC0ACC970E4CF4E6DE9EA447FA14FD138D717E262DB642684FC98</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f76802c1-04b5-4452-8e94-5789f265d2d4_1.0.0.0_x64__w1y383z8p9kdr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f76802c1-04b5-4452-8e94-5789f265d2d4_w1y383z8p9kdr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f76802c1-04b5-4452-8e94-5789f265d2d4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mursa</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-11T00:00:50.951</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\bin\x64\Debug\Phoneword.Windows.exe">
+      <PackagePath>Phoneword.Windows.exe</PackagePath>
+      <Modified>2016-11-11T00:00:48.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll">
+      <PackagePath>Phoneword.dll</PackagePath>
+      <Modified>2016-11-10T23:59:26.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-11-10T04:21:50.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-11-10T04:21:51.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-11-10T04:21:51.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-11-10T04:21:51.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-11-10T04:21:51.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-10T04:21:30.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-10T04:21:30.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-10T04:21:30.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-10T04:21:30.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\bin\x64\Debug\Phoneword.Windows.xr.xml">
+      <PackagePath>Phoneword.Windows.xr.xml</PackagePath>
+      <Modified>2016-11-11T00:00:48.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-11T00:00:48.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-11-11T00:00:48.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-11-10T04:21:51.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-11-10T04:21:51.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-11-10T04:21:51.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-11-10T04:21:51.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-11-10T04:21:51.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-11-10T04:21:51.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-11-10T04:21:51.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-11-11T00:00:50.553</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
