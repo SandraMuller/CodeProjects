@@ -14,3 +14,7 @@ C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phonewo
 C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.pdb
 C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.dll.mdb
 C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.dll.mdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.dll.mdb
+C:\Users\mursa\Documents\GitHub\CodeProjects\CrossPlatformXaml\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
